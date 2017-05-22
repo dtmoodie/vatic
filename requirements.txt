@@ -6,5 +6,5 @@ munkres
 parsedatetime
 argparse
 numpy
-pil
+image
 
